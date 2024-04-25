@@ -1,9 +1,9 @@
 # Authors
 
-Samy Hadj-said
-Virgile Hermant
-Angelo Eap
-Pierre-Louis Favreau
+Samy Hadj-said\\
+Virgile Hermant\\
+Angelo Eap\\
+Pierre-Louis Favreau\\
 Gautier Gally
 
 # ia-data-hack
